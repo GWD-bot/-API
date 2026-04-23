@@ -1,0 +1,9 @@
+{
+    "start_date": "2025-01-01",
+    "end_date": "2026-04-21",
+    "hold_days": 5,
+    "fees": 0.001,
+    "init_cash": 100000,
+    "stock_pool": ["600036.SH", "000001.SZ", "300059.SZ"],
+    "signals_to_test": ["MACD金叉", "26/55均线金叉", "组合_MACD+均线多头","海龟交易法"]
+}
